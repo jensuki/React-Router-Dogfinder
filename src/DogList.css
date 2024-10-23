@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}

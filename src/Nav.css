@@ -1,0 +1,16 @@
+.Nav {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    background: rgb(247, 171, 31);
+    padding: 10px;
+}
+
+.NavLink-items {
+    text-decoration: none;
+    color: white;
+}
+
+.NavLink-items:hover {
+    color: purple;
+}
